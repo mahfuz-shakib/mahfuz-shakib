@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh. I'm passionate about creating beautiful, responsive, and user-friendly web applications. I love bringing ideas to life through modern web technologies and improving performance, UX, and accessibility.</h3>
+<h3 align="center">A dedicated frontend developer from Bangladesh. I'm passionate about creating beautiful, responsive, and user-friendly web applications. I love bringing ideas to life through modern web technologies and improving performance, UX, and accessibility.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz-shakib&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz-shakib" /> </p>
 
