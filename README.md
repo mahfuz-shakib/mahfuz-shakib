@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahfuzur Rahman</h1>
 <h3 align="center">A dedicated frontend developer from Bangladesh. I'm passionate about creating beautiful, responsive, and user-friendly web applications. I love bringing ideas to life through modern web technologies and improving performance, UX, and accessibility.</h3>
-<img src="https://i.ibb.co.com/j9SbLGkK/Navy-Blue-Geometric-Technology-Linked-In-Banner-2.png" height="396">
+<img src="https://i.ibb.co.com/twzzsBGL/banner.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz-shakib&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz-shakib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahfuz-shakib" alt="mahfuz-shakib" /></a> </p>
