@@ -42,24 +42,6 @@
 
 ---
 
-## 🔗 Quick Coding Links
-
-<p align="left">
-  <a href="https://codeforces.com/profile/mahfuz_07" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-mahfuz__07-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-
-  <a href="https://www.codechef.com/users/mahfuz_07" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-mahfuz__07-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/mahfuz_07" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-mahfuz__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## ⚡ About Me
 
 - 🔭 I’m currently working on **Labor Marketplace**
@@ -211,16 +193,21 @@
 
 ---
 
-# 📌 Featured Projects
+## 🔗 Quick Coding Links
 
-### 🔥 Labor Marketplace (Ongoing)
-A platform connecting workers with clients in real time.
+<p align="left">
+  <a href="https://codeforces.com/profile/mahfuz_07" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-mahfuz__07-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
 
-### 🌐 Developer Portfolio  
-Built with React, Tailwind, Framer Motion.
+  <a href="https://www.codechef.com/users/mahfuz_07" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-mahfuz__07-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
 
-### 🛒 E-Commerce UI / Dashboard  
-Responsive UI with authentication & animations.
+  <a href="https://leetcode.com/mahfuz_07" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-mahfuz__07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
 
 ---
 
